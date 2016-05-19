@@ -1,0 +1,26 @@
+<info>
+  <device>
+    <vendor>samsung</vendor>
+    <codename>cs02</codename>
+    <model>SM-G350</model>
+    <board>hawaii</board>
+  </device>
+  <recovery>
+  <cwm>CWM is available, but abandoned.</cmw>
+  <cwm-dl></cwm-dl>
+  <twrp>TWRP is available. Stable and SELinux supported!</twrp>
+  <twrp-dl>http://direct.link.to/twrp.img</twrp-dl>
+  </recovery>
+  <rom>
+    <cyanogenmod>
+      <cm-10.1>Not available<cm-10.1>
+      <cm-11.0>Available and almost fully stable.<cm-11.0>
+      <cm-12.1>Not available<cm-12.1>
+      <cm-13.0><cm-13.0>
+      <cm-10.1-dl><cm-10.1-dl>
+      <cm-11.0-dl>http://direct.link.to/cm-11.0.zip<cm-11.0-dl>
+      <cm-12.1-dl><cm-12.1-dl>
+      <cm-13.0-dl><cm-13.0-dl>
+    </cyanogenmod>
+  </rom>
+</info>
