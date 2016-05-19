@@ -1,0 +1,28 @@
+<info>
+  <device>
+    <vendor>VENDOR/MANUFACTURER</vendor>
+    <codename>CODENAME</codename>
+    <model>EX-AMPLE</model>
+    <board>BOARD</board>
+  </device>
+  <recovery>
+  <cwm>[Is CWM available and what version? Other info]</cmw>
+  <cwm-dl>http://direct.link.to/cwm.img</cwm-dl>
+  <twrp>[Is CWM available and what version? Other info]</twrp>
+  <twrp-dl>http://direct.link.to/twrp.img</twrp-dl>
+  </recovery>
+  <rom>
+    <cyanogenmod>
+      <cm-10.1>[Is CM-10.1 available? Other info]<cm-10.1>
+      <cm-11.0>[Is CM-11.0 available? Other info]<cm-11.0>
+      <cm-12.1>[Is CM-12.1 available? Other info]<cm-12.1>
+      <cm-13.0>[Is CM-13.0 available? Other info]<cm-13.0>
+      <cm-10.1-dl>http://direct.link.to/cm-10.1.zip<cm-10.1-dl>
+      <cm-11.0-dl>http://direct.link.to/cm-11.0.zip<cm-11.0-dl>
+      <cm-12.1-dl>http://direct.link.to/cm-12.1.zip<cm-12.1-dl>
+      <cm-13.0-dl>http://direct.link.to/cm-13.0.zip<cm-13.0-dl>
+      <CustomName-version>Info etc..</CustomName-version>
+      <CustomName-version-dl>http://direct.link.to/CustomName-version.zip</CustomName-version-dl>
+    </cyanogenmod>
+  </rom>
+</info>
