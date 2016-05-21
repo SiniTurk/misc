@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<info>
+    <device>
+      <vendor>Samsung</vendor>
+      <codename>cs02</codename>
+      <model>SM-G350</model>
+      <board>hawaii</board>
+    </device>
+
+    <cyanogenmod>
+        <entry>
+	    <id>1</id>
+	    <name>CyanogenMod 10.1</name>
+	    <desc>Stable and 100% working!</desc>
+	    <dl>http://download.notadomain/file101.zip</dl>
+	</entry>
+        <entry>
+	    <id>2</id>
+	    <name>CyanogenMod 11.0</name>
+	    <desc>Stable and 100% working!</desc>
+	    <dl>http://download.notadomain/file11.zip</dl>
+	</entry>
+    <cyanogenmod>
+</info>
